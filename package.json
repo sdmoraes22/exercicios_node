@@ -1,0 +1,23 @@
+{
+  "name": "exercicios_node",
+  "version": "1.0.0",
+  "description": "Treinamento Node JS",
+  "main": "ex01.js",
+  "dependencies": {
+    "lodash": "^4.17.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sdmoraes22/exercicios_node.git"
+  },
+  "author": "Cristiano Moraes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sdmoraes22/exercicios_node/issues"
+  },
+  "homepage": "https://github.com/sdmoraes22/exercicios_node#readme"
+}
